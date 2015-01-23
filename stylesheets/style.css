@@ -1,0 +1,25 @@
+/* line 1, /Users/Puru/Developer/Projects/BackendDevelopers/source/stylesheets/style.css.scss */
+.logo {
+  margin-top: 50px;
+  height: 80px; }
+
+/* line 6, /Users/Puru/Developer/Projects/BackendDevelopers/source/stylesheets/style.css.scss */
+.title {
+  color: white; }
+
+/* line 10, /Users/Puru/Developer/Projects/BackendDevelopers/source/stylesheets/style.css.scss */
+.on-top {
+  top: 55%;
+  left: 41%;
+  position: absolute;
+  text-align: center; }
+
+/* line 17, /Users/Puru/Developer/Projects/BackendDevelopers/source/stylesheets/style.css.scss */
+.botton-section {
+  background-color: #34495e;
+  text-align: center; }
+
+/* line 22, /Users/Puru/Developer/Projects/BackendDevelopers/source/stylesheets/style.css.scss */
+.message {
+  padding: 50px;
+  color: white; }
