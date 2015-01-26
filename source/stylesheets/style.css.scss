@@ -13,7 +13,7 @@ p.subheader{
 }
 
 .on-top {
-  top: 30%;
+  top: 40%;
   position: absolute;
 }
 
@@ -21,13 +21,12 @@ p.subheader{
   background-color: #34495e;
   width: 100%;
   text-align: center;
-  max-height: 100%;
   bottom: 0;
   position: fixed;
 }
 
 .message {
-  padding: 50px;
+  padding-top: 10px;
   color: white;
 }
 
