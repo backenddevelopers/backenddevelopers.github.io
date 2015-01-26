@@ -1,25 +1,55 @@
 .logo {
-  margin-top: 50px;
+  margin-top: 20px;
   height: 80px;
 }
 
 .title {
-  color: white;
+  margin-top: 50px;
+  color: #4E394A;
+}
+
+p.subheader{
+  margin-bottom: 30px;
 }
 
 .on-top {
-  top: 55%;
-  left: 41%;
+  top: 30%;
   position: absolute;
-  text-align: center;
 }
 
-.botton-section{
+.footer{
   background-color: #34495e;
+  width: 100%;
   text-align: center;
+  max-height: 100%;
+  bottom: 0;
+  position: fixed;
 }
 
 .message {
   padding: 50px;
   color: white;
+}
+
+ul.center {
+  width: 100%;
+  text-align: center;
+}
+
+.center{
+  vertical-align: middle;
+}
+
+.dark-blue {
+  background-color: #34495E;
+}
+
+.dark-blue:hover{
+  background-color: #2c3e50;
+}
+
+.shadow {
+  -webkit-box-shadow: 0px 0px 97px 0px rgba(0,0,0,1);
+  -moz-box-shadow: 0px 0px 97px 0px rgba(0,0,0,1);
+  box-shadow: 0px 0px 97px 0px rgba(0,0,0,1);
 }
